@@ -1,0 +1,28 @@
+{
+  "name": "travel-guru-backend",
+  "version": "1.0.0",
+  "description": "For Portflio buildup",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coddermoon/travel-guru-backend.git"
+  },
+  "keywords": [
+    "Backend",
+    "server",
+    "resturent-website"
+  ],
+  "author": "Mahamodul Hasan Moon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coddermoon/travel-guru-backend/issues"
+  },
+  "homepage": "https://github.com/coddermoon/travel-guru-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
