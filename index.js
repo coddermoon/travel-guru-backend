@@ -12,5 +12,5 @@ app.get('/',(req,res)=>{
 })
 
 app.listen(port,()=>{
-    console.log('Travel guru listening to port',port)
+    console.log('Travel yeeah guru listening to port',port)
 })
