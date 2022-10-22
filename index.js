@@ -8,7 +8,7 @@ const app = express()
 app.use(cors())
 
 app.get('/',(req,res)=>{
-    res.send('homepage of this server is running')
+    res.send('homepage yeeah guru of this server is running')
 })
 
 app.listen(port,()=>{
