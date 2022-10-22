@@ -4,6 +4,7 @@
   "description": "For Portflio buildup",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "nodemon index"
   },
   "repository": {
